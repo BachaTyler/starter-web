@@ -16,6 +16,8 @@ This is a simple web project, deployment can be done on any web server or operat
 
 ## How to contribute
 
+Please fork this repository and then issue pull request for review.
+
 ### Copyright
 
 WasikDesigns, 2020
