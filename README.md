@@ -16,3 +16,6 @@ This is a simple web project, deployment can be done on any web server or operat
 
 ## How to contribute
 
+### Copyright
+
+WasikDesigns, 2020
