@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Tyler Smith -- GitHub IT Guy -- Not Applicable
 
 # THANKS
 
