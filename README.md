@@ -1,7 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how to use Git and GitHub together. Adding a line for rebasing example. Adding second line for rebasing.
-
+This repository is for showing how to use Git and GitHub together. Emergency fix after stash.
 ## Introduction
 
 This example is to show different parts of the Git repository and various commands of using a web project.
